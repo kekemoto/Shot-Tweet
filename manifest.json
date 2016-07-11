@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Shot-Tweet",
+	"description": "Only Tweet",
+	"version": "1.0",
+	"permissions": ["tabs"],
+	"browser_action": {
+		"default_icon": "icons/logo.png",
+		"default_title": "tweet"
+	},
+	"background": {
+		"scripts": ["index.js"]
+	}
+}
