@@ -2,6 +2,8 @@
 
 Only tweet in chrome
 
+  ![screen shot](./screenshot.phn)
+
 ## Add to chrome
 
 > git cloen https://github.com/kekemoto/shot-tweet.git
