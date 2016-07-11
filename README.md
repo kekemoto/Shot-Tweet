@@ -2,7 +2,7 @@
 
 Only tweet in chrome
 
-  ![screen shot](./screenshot.phn)
+  ![screen shot](./screenshot.png)
 
 ## Add to chrome
 
