@@ -2,7 +2,7 @@
 
 Only tweet in chrome
 
-# Add to chrome
+## Add to chrome
 
 > git cloen https://github.com/kekemoto/shot-tweet.git
 
@@ -13,7 +13,7 @@ Only tweet in chrome
 
 For more details, see [Load the extension](https://developer.chrome.com/extensions/getstarted#unpacked).
 
-# Credit
+## Credit
 [Click n' Tweet](https://raw.github.com/dciccale/click-n-tweet/master/LICENSE.txt)
 
 ## contact
