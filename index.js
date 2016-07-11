@@ -1,12 +1,13 @@
 /*!
- * JustTweet
+ * Shot Tweet
  *
- * Credit
- * https://chrome.google.com/webstore/detail/click-n-tweet/gdepkkciedfadghaigjanfkcdedenpbh
- * Copyright (c) 2013 Denis Ciccale (@tdecs)
- * Released under the MIT license
- * https://github.com/dciccale/click-n-tweet/blob/master/LICENSE.txt
+ * github
+ * https://github.com/kekemoto/shot-tweet
+ *
+ * License
+ * MIT
  */
+
 chrome.browserAction.onClicked.addListener(function (tab) {
   var url = 'https://twitter.com/intent/tweet';
   var width = 550;

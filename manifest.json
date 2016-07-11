@@ -5,7 +5,7 @@
 	"version": "1.0",
 	"permissions": ["tabs"],
 	"browser_action": {
-		"default_icon": "icons/logo.png",
+		"default_icon": "logo.png",
 		"default_title": "tweet"
 	},
 	"background": {
