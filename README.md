@@ -16,7 +16,7 @@ Only tweet in chrome
 For more details, see [Load the extension](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 ## Credit
-Fork from [Click n' Tweet](https://github.com/dciccale/click-n-tweet) : [license](https://github.com/dciccale/click-n-tweet/blob/master/LICENSE.txt)
+Fork from [Click n' Tweet](https://github.com/dciccale/click-n-tweet) : [license(MIT)](https://github.com/dciccale/click-n-tweet/blob/master/LICENSE.txt)
 
 ## contact
 [@nero1166](https://twitter.com/nero1166)
