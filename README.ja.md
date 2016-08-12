@@ -4,21 +4,20 @@
 
 ![スクリーンショット](./screenshot.png)
 
-## Chromeに入れる方法
+## Chromeに追加する方法
 
-1. [ダウンロード](https://github.com/kekemoto/shot-tweet/archive/master.zip)します。
-1. ダウンロードしたファイルはZipなので、展開します。
-1. [メニュー]→[その他のツール]→[拡張機能]を開きます
-1. 右上の[デベロッパーモード]をチェックします
-1. [パッケージ化されていない拡張機能を読み込む...]を押します。
-1. ダウンロードしたファイルを選択してください
+[Chrome ウェブストア](https://chrome.google.com/webstore/detail/shot-tweet/pohkgbadbmimnodpdiobdadfcnjagbjf)から追加してください。
+
 
 ### 小ネタ
-キーボードショートカットからもツイートをShotできます。 
+キーボードショートカットも使えます。 
 拡張機能の設定ページを開きまして、一番右下に[キーボードショートカット]があるのでそこから設定できます。
 
 ### Contact
-[@nero1166](https://twitter.com/nero1166)
+[@keke_moto](https://twitter.com/keke_moto)
 
 ## Credit
 [Click n' Tweet](https://raw.github.com/dciccale/click-n-tweet/master/LICENSE.txt)
+
+## License
+[MIT](./LICENSE)
