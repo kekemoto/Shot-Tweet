@@ -20,4 +20,4 @@
 [Click n' Tweet](https://raw.github.com/dciccale/click-n-tweet/master/LICENSE.txt)
 
 ## License
-[MIT](./LICENSE)
+[MIT](./LICENSE.txt)
