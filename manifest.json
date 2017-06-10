@@ -1,8 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Shot-Tweet",
-	"description": "Only Tweet",
-	"version": "1.0",
+	"name": "__MSG_app_title__",
+	"description": "__MSG_app_description__",
+	"version": "1.0.1",
+	"default_locale": "en",
 	"permissions": ["tabs"],
 	"browser_action": {
 		"default_icon": "logo.png",
